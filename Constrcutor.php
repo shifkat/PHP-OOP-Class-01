@@ -1,8 +1,6 @@
 <?php
 
-
 /*
-
 // Constrcutor & its parameter 
 
 1. constructor itself a function *
@@ -11,10 +9,7 @@
 4. constructor can't return *
 */
 
-
-
 class car{
-
 
     public function __construct($a,$b,$c){
         $num1=50;
