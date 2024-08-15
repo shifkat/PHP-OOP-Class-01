@@ -11,12 +11,9 @@ class Father{
      }
  }
  
- 
- 
  class Son extends Father{
  
  
-    
  }
  
  $SonObj=new Son();

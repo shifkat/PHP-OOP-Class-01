@@ -1,6 +1,6 @@
 <?php
 
-// Inheritance Overriding
+// Inheritance
 
 class Father{
 
@@ -11,20 +11,12 @@ class Father{
     }
 }
 
-
-
 class Son extends Father{
-
-
-    public function addTwoNumber(){
-        $num1=10;
-        $num2=160;
-        echo $num1+$num2;
-    }
 
 }
 
 $SonObj=new Son();
 $SonObj->addTwoNumber();
 
-
+//$FatherObj=new Father();
+//$FatherObj->addTwoNumber();

@@ -7,7 +7,7 @@ class person{
     public $lastName="Limited";
 
     public function getName(){
-        $fullName = $this->firstName+" "+$this->lastName;
+        $fullName = $this->firstName." ".$this->lastName;
         echo $fullName;
     }
 }

@@ -25,4 +25,4 @@ class Son extends Father{
 
 
 $SonObj=new Son();
-$SonObj->print100();
+$SonObj->print100(); // Result will error when final

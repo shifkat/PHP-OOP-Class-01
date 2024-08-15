@@ -12,13 +12,9 @@ class ParentClass{
    public  $num5=200;
    public  $num6=700;
 
-
 }
 
-
 class ChildClass extends ParentClass{
-
-       
 
         public function addNumber(){
 

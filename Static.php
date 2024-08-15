@@ -13,5 +13,5 @@ class ParentClass{
  }
  
 
-ParentClass::Syhello();
+ParentClass::Syhello(); //using Scope resolution ::
 
