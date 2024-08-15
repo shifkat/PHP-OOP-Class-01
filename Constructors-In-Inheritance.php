@@ -1,11 +1,8 @@
 <?php
 
 // Constructors In Inheritance
-
 // Constructor Only Father 
-
 //  Constructor Only Son 
-
 // Constructor in Father & Son
 
 class Father{
